@@ -1,5 +1,8 @@
 # IAT（潜在連合テスト）実験アプリケーション
 
+デモ動画Link => [https://www.youtube.com/watch?v=ISwm9zcTLC8]([url](https://www.youtube.com/watch?v=ISwm9zcTLC8))
+デモ体験Link => [https://z3cut10dxf.cognition.run]([url](https://z3cut10dxf.cognition.run))
+
 ## 概要
 
 このアプリケーションは、jsPsychライブラリを使用して作成された潜在連合テスト（IAT）です。特定の概念間の潜在的な関連を測定することを目的としています。この実験では、「男性-女性」および「体育会系-文化系」という対の概念間の関連を測定します。
