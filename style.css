@@ -1,0 +1,79 @@
+body {
+    font-family: sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .jspsych-display-element {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .iat-category-label {
+    font-size: 36px;
+    font-weight: bold;
+    color: green;
+    margin-bottom: 20px;
+  }
+  
+  .iat-stimulus {
+    font-size: 100px; /* 刺激語のフォントサイズ */
+    font-family: "Arial", sans-serif; /* 刺激語のフォントスタイル */
+    color: #000000; /* 刺激語の色 (例: 青色) */
+    margin-bottom: 20px;
+  }
+  
+  .iat-feedback {
+    font-size: 96px;
+    color: red;
+  }
+  
+  .jspsych-html-keyboard-response-stimulus {
+    font-size: 100x;
+    text-align: center;
+  }
+  
+  .jspsych-survey-likert-form {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start; /* 左揃え */
+    width: 500px; /* 幅を調整 */
+    border: 1px solid #ccc; /* 枠線を追加 */
+    padding: 20px;
+    margin: 0 auto; /* 中央寄せ */
+  }
+  
+  .jspsych-survey-likert-statement {
+    margin-bottom: 10px; /* 質問間の余白を追加 */
+  }
+  
+  .jspsych-survey-likert-opts {
+    display: flex;
+    justify-content: space-between; /* ラベルを均等に配置 */
+    width: 100%;
+  }
+  
+  .jspsych-survey-likert-opt {
+    margin: 0 5px; /* ラベル間の余白を追加 */
+  }
+  
+  .jspsych-survey-likert-response {
+    margin-bottom: 20px; /* 質問と次の質問の余白を追加 */
+  }
+  
+  .jspsych-btn {
+    margin-top: 20px; /* ボタンと質問の余白を追加 */
+  }
+
+  .sports-stimulus {
+    color: green; /* スポーツ関連の刺激語は緑色に変更 */
+  }
+  
+  .culture-stimulus {
+    color: green; /* 文化関連の刺激語は緑色に変更 */
+  }
