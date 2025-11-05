@@ -1,8 +1,8 @@
 # IAT（潜在連合テスト）実験アプリケーション
 
-デモ動画Link => [https://www.youtube.com/watch?v=ISwm9zcTLC8](url)
+デモ動画Link => [https://www.youtube.com/watch?v=ISwm9zcTLC8](https://www.youtube.com/watch?v=ISwm9zcTLC8)
 
-デモ体験Link => [https://z3cut10dxf.cognition.run](url)
+デモ体験Link => [https://z3cut10dxf.cognition.run]([url](https://z3cut10dxf.cognition.run))
 
 ## 概要
 
